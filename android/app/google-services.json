@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178003984615",
+    "project_id": "measurementtake",
+    "storage_bucket": "measurementtake.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178003984615:android:6749f3da5c9a89bcd3e242",
+        "android_client_info": {
+          "package_name": "com.example.measurement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178003984615-u0oqopjfbddtrkclbnl8frjvp3u7h85s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhPy9Y-NqXX4N2SRDMOu8mzlU3yF8HeeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178003984615-u0oqopjfbddtrkclbnl8frjvp3u7h85s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
